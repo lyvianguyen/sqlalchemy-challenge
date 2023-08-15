@@ -23,8 +23,8 @@
 5. Close your session.
 
 ## Design Your Climate App
-1. [/] Start of the homepage listing all available APIs.
+1. /                       Start of the homepage listing all available APIs.
 2. /api/v1.0/precipitation Precipitation analysis for the last 12 months.
-3. /api/v1.0/stations All stations in our dataset.
+3. /api/v1.0/stations      All stations in our dataset.
 4. /api/v1.0/<start> & /api/v1.0/<start>/<end> List of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
 
